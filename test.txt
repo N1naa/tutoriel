@@ -4,4 +4,7 @@ Oui Oui
 salut salut1 2 3 
 1 2 3 
 4 5 6
+Void print() {
+    cout << "Coucou" << endl;
+}
 
