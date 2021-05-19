@@ -1,2 +1,5 @@
 très bien et toi?
 Oui tu vas bien aussi :)
+Void print() {
+    cout << "Coucou" << endl;
+}
